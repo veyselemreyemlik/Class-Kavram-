@@ -1,0 +1,16 @@
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Class-Kavramı\Class-Kavramı\bin\Debug\net5.0\Class-Kavramı.exe
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Class-Kavramı\Class-Kavramı\bin\Debug\net5.0\Class-Kavramı.deps.json
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Class-Kavramı\Class-Kavramı\bin\Debug\net5.0\Class-Kavramı.runtimeconfig.json
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Class-Kavramı\Class-Kavramı\bin\Debug\net5.0\Class-Kavramı.runtimeconfig.dev.json
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Class-Kavramı\Class-Kavramı\bin\Debug\net5.0\Class-Kavramı.dll
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Class-Kavramı\Class-Kavramı\bin\Debug\net5.0\ref\Class-Kavramı.dll
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Class-Kavramı\Class-Kavramı\bin\Debug\net5.0\Class-Kavramı.pdb
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Class-Kavramı\Class-Kavramı\obj\Debug\net5.0\Class-Kavramı.csproj.AssemblyReference.cache
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Class-Kavramı\Class-Kavramı\obj\Debug\net5.0\Class-Kavramı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Class-Kavramı\Class-Kavramı\obj\Debug\net5.0\Class-Kavramı.AssemblyInfoInputs.cache
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Class-Kavramı\Class-Kavramı\obj\Debug\net5.0\Class-Kavramı.AssemblyInfo.cs
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Class-Kavramı\Class-Kavramı\obj\Debug\net5.0\Class-Kavramı.csproj.CoreCompileInputs.cache
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Class-Kavramı\Class-Kavramı\obj\Debug\net5.0\Class-Kavramı.dll
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Class-Kavramı\Class-Kavramı\obj\Debug\net5.0\ref\Class-Kavramı.dll
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Class-Kavramı\Class-Kavramı\obj\Debug\net5.0\Class-Kavramı.pdb
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Class-Kavramı\Class-Kavramı\obj\Debug\net5.0\Class-Kavramı.genruntimeconfig.cache
